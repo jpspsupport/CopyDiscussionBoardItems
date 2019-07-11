@@ -43,3 +43,7 @@ https://www.nuget.org/packages/Microsoft.SharePointOnline.CSOM
 ## Reference
 Original Documentation of this sample code from the following Japan SharePoint Support Team's blog.
 https://blogs.technet.microsoft.com/sharepoint_support/2015/01/21/1250-2/
+
+## Remarks
+In the long run, it is better to move to Yammer or Teams conversation, instead of keep using Discussion Board List. 
+Only if you are not in a hurry to fix it.
